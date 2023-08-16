@@ -15,6 +15,7 @@ python train.py --dataset Enron --time_steps 16
 ```
 
 # The result
+```
 Epoch 0  ,  Loss = 40.527, Val AUC 0.583 Test AUC 0.588
 Epoch 1  ,  Loss = 28.977, Val AUC 0.639 Test AUC 0.616
 Epoch 2  ,  Loss = 26.014, Val AUC 0.721 Test AUC 0.670
@@ -53,5 +54,5 @@ Epoch 34 ,  Loss = 15.804, Val AUC 0.894 Test AUC 0.910
 Epoch 35 ,  Loss = 15.783, Val AUC 0.893 Test AUC 0.911
 Epoch 36 ,  Loss = 15.757, Val AUC 0.888 Test AUC 0.911
 Best Test AUC = 0.910
-
+```
 
